@@ -15,7 +15,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class AutoIndex {
 
     private static final String API_URL = "***REMOVED***";
-    //private static final String API_KEY = "AIzaSyAXgDC5yw5RKrNo4tyXeCIfGGstAgzId4c"; // Replace with your actual API key
 
 
     @PostMapping("/auto")
