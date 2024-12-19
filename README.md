@@ -7,6 +7,11 @@ Netherite is a note-taking app designed to help students become more productive.
 Check out the demonstration of the app:
 [Watch the video](https://youtu.be/iHrzfTETPyA)
 
+Or, if you can't click on the link, here is the link. The title is called Netherite (4_rasel_2): 
+https://youtu.be/iHrzfTETPyA
+
+You can copy and paste it into a browser.
+
 ## Visuals
 Here’s what the login page looks like:
 
