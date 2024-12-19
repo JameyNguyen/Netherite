@@ -29,18 +29,16 @@ An example of a note opened in the app, featuring auto-saving, markdown support 
 The installation manual is still a work in progress. To run the frontend/app, use Android Studio.
 
 ## Usage
-Examples of usage can be included here. Make sure to demonstrate the expected output and provide links to more complex examples if they’re too long to include in the README.
-
-## Support
-For help, you can reach out through the following channels:
-- [Issue Tracker](#) (if available)
-- Email: [example@example.com](mailto:example@example.com)
+For students lol
 
 ## Roadmap
 Future features to be released:
-- Feature 1
-- Feature 2
-- Feature 3
+- Port to Web and IOS (React + React Native + Go, or Ruby on Rails)
+- Migrate to AWS instead of having a local server (that is on a Pi)
+- Update the UI, and wire-frame for Desktop as well
+- Encrypt user data to make login/signup safer
+- Revamp live editing, which would fight bugs and improve time complexity
+- Pitch the app at ISU Entreprenership
 
 ## Authors and Acknowledgment
 - Jamey Nguyen
