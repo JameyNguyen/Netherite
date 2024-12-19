@@ -45,7 +45,7 @@ public class TesseractTest {
     @Autowired
     private ImageRepository im;
 
-    private static final String API_URL = "***REMOVED***";
+    private static final String API_URL = "lol";
     private static final String prompt = "Convert this image to text and replicate the format best as possible";
 
     private ArrayList<String> types = new ArrayList<>(Arrays.asList("jpeg", "jpg", "png", "gif"));

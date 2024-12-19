@@ -14,7 +14,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 @RestController
 public class AutoIndex {
 
-    private static final String API_URL = "***REMOVED***";
+    private static final String API_URL = "lol";
 
 
     @PostMapping("/auto")
