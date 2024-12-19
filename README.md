@@ -4,12 +4,23 @@
 Netherite is an note-taking app designed to help students become more productive. It features many features, and the integration of both Gemini and OpenAI API to power AI features in the app. It also features a proprietary system for cloud hosting for notes using
 a private server, and live collaborating editing on the same notes, similar to Google Docs or Word. 
 
+## Trailer
+I also edited a screen-recording of a demonstration of the App.
+https://youtu.be/iHrzfTETPyA
 
 ## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Here's how the log-in page looks like.
+![image](https://github.com/user-attachments/assets/2068bb62-eb00-4330-9f03-7c52e4092da7)
+
+The main homepage of the app, where you can access your folders, files (and recent files), and create new folders and files if you wish. You can also auto-index your files, which will auto-organize your files for you and put them into existing or generated folders.
+![image](https://github.com/user-attachments/assets/d2cf21b6-b543-435f-9deb-cdce50a314dc)
+
+Here's an example of a note opened up in the App. It features auto-saving, markdown for rich text, and features such as an OCR reader to take pictures with and automatically parse them into notes, a voice recorder to record lectures with, and an AI assistant,
+who reads the context of your notes and 'your prompt' to help you with any questions you might have.
+![image](https://github.com/user-attachments/assets/0e2b139a-44f5-413c-956d-7c8bef820634)
 
 ## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+Installation manual still work in progress. I run the frontend/app in Android Studio.
 
 ## Usage
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
