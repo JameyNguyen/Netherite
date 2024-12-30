@@ -26,10 +26,10 @@ An example of a note opened in the app, featuring auto-saving, markdown support 
 ![Note Example](https://github.com/user-attachments/assets/0e2b139a-44f5-413c-956d-7c8bef820634)
 
 ## Installation
-The installation manual is still a work in progress. To run the frontend/app, use Android Studio.
+The installation manual is still a work in progress, sorry.
 
 ## Usage
-For students lol
+For students lol, and anyone who wants to organize their notes
 
 ## Roadmap
 Future features to be released:
