@@ -51,4 +51,4 @@ Special thanks to:
 - Simanta Mitra, my Professor at Iowa State University.
 
 ## Project Status
-Still ongoing as of December 2024.
+Still ongoing as of January 2025.
